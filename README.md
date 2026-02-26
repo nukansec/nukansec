@@ -1,7 +1,7 @@
 ### > hello_friend.exe
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Computer+Science+Student+@+UFG;CyberSec+Enthusiast;Always+learning+new+exploits...;fsociety+fan)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Computer+Science+Student+@+UFG;CyberSec+Malware+and+Reversing;Always+learning+new+exploits...;fsociety+fan)
 
 </div>
 
@@ -11,14 +11,14 @@
 
 > "Entender como o sistema é construído para saber exatamente onde ele quebra."
 
-Estudante de **Ciência da Computação na UFG** com background em desenvolvimento (ADS), focado agora em **Segurança Ofensiva e Defensiva**.
+Estudante de **Ciência da Computação na UFG** com background em desenvolvimento (ADS), focado agora em **Segurança da Informação (baixo nível) e Infraestrutura de Redes**.
 
 
 ```user@nukan:~$ cat current_status.txt
 ----------------------------------------
 [🎓] Formação 1:  Ciência da Computação @ UFG (Em andamento)
 [📜] Formação 2:  Análise e Desenv. de Sistemas (Concluído)
-[🔭] Foco:        Blue Team, AppSec & Linux Hardening
+[🔭] Foco:        Malware Analysis, Reversing & Infra/Redes
 [🎮] Hobby:       LoL/Valorant como 'Nukan'
 ----------------------------------------
 ```
