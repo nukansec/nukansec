@@ -11,8 +11,7 @@
 
 > "Shift left. Think like an attacker."
 
-Estudante de **Ciência da Computação na UFG** e tecnólogo em ADS. Direciono meus estudos para **DevSecOps**: segurança aplicada a infraestrutura, nuvem e pipelines de entrega.
-
+Estudante de **Ciência da Computação na UFG** e tecnólogo em ADS. Direciono meus estudos para **DevSecOps**: segurança aplicada a infraestrutura, nuvem e pipelines de entrega, com interesse especial em **segurança de sistemas de IA**.
 ```text
 user@nukan:~$ cat current_status.txt
 ----------------------------------------------------------------
